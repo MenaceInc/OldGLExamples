@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
 
 add_subdirectory(ABGR_Extension)
+add_subdirectory(Arbitrary_Clip_Plane)
 add_subdirectory(Blender)
 add_subdirectory(Dinospin)
 add_subdirectory(Evaluator_Test)
